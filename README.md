@@ -18,7 +18,7 @@ Install these before you start:
 
 | Tool | Version | Check with |
 |---|---|---|
-| Java JDK | 17+ | `java -version` |
+| Java JDK | 21+ | `java -version` |
 | Maven | 3.8+ | `mvn -version` |
 | Node.js | 18+ | `node -v` |
 | npm | 9+ | `npm -v` |
